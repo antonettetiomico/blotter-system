@@ -1,0 +1,7 @@
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\bin\Debug\Blotter System Home Page.exe
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\bin\Debug\Blotter System Home Page.pdb
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\obj\x86\Debug\Blotter_System_Home_Page.Properties.Resources.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\obj\x86\Debug\Blotter System Home Page.csproj.GenerateResource.Cache
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\obj\x86\Debug\Blotter System Home Page.exe
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\obj\x86\Debug\Blotter System Home Page.pdb
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System Home Page\obj\x86\Debug\Blotter_System_Home_Page.wndwHome.resources

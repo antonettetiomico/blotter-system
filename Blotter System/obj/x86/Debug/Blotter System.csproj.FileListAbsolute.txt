@@ -1,0 +1,19 @@
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\bin\Debug\Blotter System.exe
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\bin\Debug\Blotter System.pdb
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.Properties.Resources.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter System.csproj.GenerateResource.Cache
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter System.exe
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter System.pdb
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwForm.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwHome.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\bin\Debug\Blotter System.exe.config
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter System.csprojResolveAssemblyReference.cache
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwComplainant.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwDefendant.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwUpdate.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\bin\Debug\MySql.Data.dll
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\bin\Debug\MySql.Data.xml
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwLogin.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwChangePassword.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwChangeUsername.resources
+C:\Users\ANTONETTE\Documents\Visual Studio 2010\Projects\Blotter System\Blotter System\obj\x86\Debug\Blotter_System.wndwRegister.resources
